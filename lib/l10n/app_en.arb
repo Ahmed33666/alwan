@@ -1,0 +1,21 @@
+{
+  "@@locale": "en",
+  "appName": "Alwan",
+  "navHome": "Home",
+  "navColours": "Colours",
+  "navVisualize": "Visualize",
+  "navProducts": "Products",
+  "navProjects": "My Projects",
+  "findYourColour": "Find your Colour",
+  "colourPicker": "Colour Picker",
+  "colourFinder": "Colour Finder",
+  "colourWall": "Colour Wall",
+  "visualizeNow": "Visualize Now",
+  "myProjectsCount": "My Projects ({count})",
+  "@myProjectsCount": { "placeholders": { "count": { "type": "int" } } },
+  "addProject": "Add Project",
+  "manageProjects": "Manage Projects",
+  "recentlyViewed": "Recently viewed",
+  "viewAll": "View All",
+  "comingSoon": "Coming soon"
+}

@@ -1,0 +1,20 @@
+{
+  "@@locale": "ar",
+  "appName": "ألوان",
+  "navHome": "الرئيسية",
+  "navColours": "الألوان",
+  "navVisualize": "جرّب",
+  "navProducts": "المنتجات",
+  "navProjects": "مشاريعي",
+  "findYourColour": "اعثر على لونك",
+  "colourPicker": "التقاط لون",
+  "colourFinder": "كاشف الألوان",
+  "colourWall": "حائط الألوان",
+  "visualizeNow": "جرّب الآن",
+  "myProjectsCount": "مشاريعي ({count})",
+  "addProject": "إضافة مشروع",
+  "manageProjects": "إدارة المشاريع",
+  "recentlyViewed": "شوهد مؤخراً",
+  "viewAll": "عرض الكل",
+  "comingSoon": "قريباً"
+}
